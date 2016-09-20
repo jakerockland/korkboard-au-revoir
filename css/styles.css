@@ -646,20 +646,8 @@ input, textarea{
     color: #fff;
 }
 
-
-.navbar-nav>li>a,
-.navbar-nav>li>a:focus,
-.navbar-nav>li>a:hover
-.navbar-nav>li>a:active{
-  background-color: #ff8b8b;
-}
-
 .navbar-nav {
   margin: 0 !important;
-}
-
-.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-    background-color: #FFB1B7;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
